@@ -1,5 +1,3 @@
-# v0.1 Overview
-
 ## 1. 프로젝트 목적
 - 전자식 기술 교범(IETM) PDF 데이터를 효과적으로 검색하기 위해 RAG(Retrieval-Augmented Generation) 구조를 적용.
 - 다양한 PDF에서 텍스트를 추출하여 검색 및 QA 기능의 기반 마련.
