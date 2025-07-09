@@ -1,4 +1,4 @@
-# 실습 Overview: DeepLearningAdv_Homework #1
+# 실습 Overview: Experiment on deep neural network with MLP(Multi-Layer Perceptron) structure
 
 ## 1. 실습 목적
 - MLP(Multi-Layer Perceptron) 구조의 심층 신경망 실험을 통해 기본 구조와 하이퍼파라미터의 영향을 이해
