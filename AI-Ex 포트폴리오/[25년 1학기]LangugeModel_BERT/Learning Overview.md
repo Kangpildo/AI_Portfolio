@@ -1,4 +1,4 @@
-# 실습 Overview: HW2-1_LangugeModel_BERT
+# 실습 Overview: LangugeModel_BERT
 
 ## 1. 실습 목적
 - BERT(Bidirectional Encoder Representations from Transformers) 기반 한국어 자연어 처리(NLP) 모델의 이해와 실습.
